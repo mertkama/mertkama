@@ -2,18 +2,19 @@
 <h3 align="center">Developer</h3>
 
 
-<details>
-  <summary align="center">GitHub Stats</summary>
-
-  <p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=mertkama&row=2&column=4&no-frame=true&margin-w=7&margin-h=7" alt="mertkama" /></p>
-
-</details>
 
 <h3 align="center">Repoma Hoş Geldiniz.</h3>
 
 <p align="center">👨‍💻 All of my projects are available at https://github.com/mertkama?tab=repositories </p>
  <p align="center">🔭 I’m currently working with private project.</p>
  <p align="center">🌱 I’m currently learning interesting things.</p>
+ 
+ <details>
+  <summary align="center">GitHub Stats</summary>
+
+  <p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=mertkama&row=2&column=4&no-frame=true&margin-w=7&margin-h=7" alt="mertkama" /></p>
+
+</details>
   
   <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mertkama&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="mertkama" /></p>
  
