@@ -1,15 +1,33 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+mertkama)](https://github.com/mertkama)
+<h3 align="center">Developer</h3>
+
+
+<details>
+  <summary align="center">GitHub Stats</summary>
+
+  <p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=mertkama&row=2&column=4&no-frame=true&margin-w=7&margin-h=7" alt="mertkama" /></p>
+
+</details>
+
+<h3 align="center">Repoma Hoş Geldiniz.</h3>
+
 <p align="center">👨‍💻 All of my projects are available at https://github.com/mertkama?tab=repositories </p>
  <p align="center">🔭 I’m currently working with private project.</p>
  <p align="center">🌱 I’m currently learning interesting things.</p>
+  
+  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mertkama&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="mertkama" /></p>
  
- 
-<h3 align="center">Repoma Hoş Geldiniz.</h3>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=mertkama&label=Profile%20views&color=0e75b6&style=flat" alt="mertkama" /></p>
 
-
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertkama&layout=compact&hide_border=true&theme=tokyonight" alt="mertkama" /></p>
 
 
  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mertkama&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="mertkama" /></p>
+
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mertkama&hide_border=true&theme=tokyonight" alt="mertkama" /></p>
+  
+  
 
 
 <h3 align="left">Connect with me:</h3>
