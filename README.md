@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+
+<p align="center">👨‍💻 All of my projects are available at https://github.com/mertkama?tab=repositories </p>
+ <p align="center">🔭 I’m currently working with private project.</p>
+ <p align="center">🌱 I’m currently learning interesting things.</p>
+ 
+ 
 <h3 align="center">Repoma Hoş Geldiniz.</h3>
 
 <h3 align="left">Connect with me:</h3>
